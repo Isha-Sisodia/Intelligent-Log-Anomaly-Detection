@@ -1,0 +1,6 @@
+2026-10-08 12:10:01 INFO Application started
+2026-10-08 12:10:05 INFO Request received GET /api/students
+2026-10-08 12:10:35 ERROR API request timeout after waiting for response
+2026-10-08 12:10:35 ERROR GET /api/students HTTP 504
+2026-10-08 12:10:40 ERROR API request timeout after waiting for response
+2026-10-08 12:10:40 ERROR GET /api/courses HTTP 504

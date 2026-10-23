@@ -1,0 +1,5 @@
+2026-10-08 12:40:01 INFO Application started
+2026-10-08 12:40:05 INFO Processing student request
+2026-10-08 12:40:06 ERROR ZeroDivisionError: division by zero
+2026-10-08 12:40:06 ERROR Request processing failed
+2026-10-08 12:40:06 ERROR GET /students HTTP 500

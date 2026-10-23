@@ -1,0 +1,4 @@
+2026-10-08 12:50:01 INFO Application starting
+2026-10-08 12:50:02 ERROR ModuleNotFoundError: No module named 'pandas'
+2026-10-08 12:50:02 ERROR Failed to load required dependency
+2026-10-08 12:50:03 CRITICAL Application startup failed

@@ -1,0 +1,18 @@
+2026-10-08 11:00:01 INFO Application started
+2026-10-08 11:00:03 INFO Database connection established
+
+2026-10-08 11:01:10 ERROR Database connection timeout
+2026-10-08 11:01:10 ERROR MySQL server has gone away
+2026-10-08 11:01:11 ERROR Failed to retrieve student records
+
+2026-10-08 11:02:20 ERROR GET /api/students HTTP 500
+2026-10-08 11:02:21 ERROR GET /api/courses HTTP 500
+
+2026-10-08 11:03:05 ERROR Authentication failed for user admin
+2026-10-08 11:03:06 WARNING Multiple failed login attempts detected
+
+2026-10-08 11:04:10 ERROR FileNotFoundError: students.csv
+2026-10-08 11:04:11 ERROR Failed to load student data from file
+
+2026-10-08 11:05:20 ERROR ModuleNotFoundError: No module named 'pandas'
+2026-10-08 11:05:21 ERROR Application startup failed

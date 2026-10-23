@@ -1,0 +1,6 @@
+2026-10-08 12:00:01 INFO Application started
+2026-10-08 12:00:02 INFO Database connection established
+2026-10-08 12:00:03 INFO User authentication successful
+2026-10-08 12:00:04 INFO GET /students HTTP 200
+2026-10-08 12:00:05 INFO Student records retrieved successfully
+2026-10-08 12:00:06 INFO Application running normally

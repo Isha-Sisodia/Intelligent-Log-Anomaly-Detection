@@ -1,0 +1,5 @@
+2026-10-08 13:10:01 INFO Application started
+2026-10-08 13:10:05 INFO Attempting to write report file
+2026-10-08 13:10:06 ERROR PermissionError: Access denied
+2026-10-08 13:10:06 ERROR Failed to write report file
+2026-10-08 13:10:07 ERROR Report generation failed

@@ -1,0 +1,4 @@
+2026-10-08 13:00:01 INFO Application starting
+2026-10-08 13:00:02 ERROR ConfigurationError: DATABASE_URL is not configured
+2026-10-08 13:00:02 ERROR Database configuration is missing
+2026-10-08 13:00:03 CRITICAL Application startup failed

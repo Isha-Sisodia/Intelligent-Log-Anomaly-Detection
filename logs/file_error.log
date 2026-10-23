@@ -1,0 +1,5 @@
+2026-10-08 12:30:01 INFO Application started
+2026-10-08 12:30:05 INFO Loading student data
+2026-10-08 12:30:06 ERROR FileNotFoundError: students.csv
+2026-10-08 12:30:06 ERROR Failed to load student data
+2026-10-08 12:30:07 ERROR Data import operation failed

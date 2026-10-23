@@ -1,0 +1,11 @@
+2026-10-08 10:00:01 INFO Application started
+2026-10-08 10:00:03 INFO Database connection established
+2026-10-08 10:01:12 INFO User authentication successful
+2026-10-08 10:02:10 INFO Request received GET /students
+2026-10-08 10:02:15 WARNING Database response time is high
+2026-10-08 10:02:20 ERROR Database connection timeout
+2026-10-08 10:02:20 ERROR MySQL server has gone away
+2026-10-08 10:02:21 ERROR Failed to retrieve student records
+2026-10-08 10:02:21 ERROR GET /students HTTP 500
+2026-10-08 10:02:25 ERROR Database connection timeout
+2026-10-08 10:02:25 ERROR MySQL server has gone away

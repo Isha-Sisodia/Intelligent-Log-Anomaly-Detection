@@ -1,0 +1,5 @@
+2026-10-08 12:20:01 INFO Application started
+2026-10-08 12:20:05 ERROR Authentication failed for user admin
+2026-10-08 12:20:06 ERROR Authentication failed for user admin
+2026-10-08 12:20:07 WARNING Multiple failed login attempts detected
+2026-10-08 12:20:08 WARNING Account temporarily locked
